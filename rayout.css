@@ -1,0 +1,197 @@
+html{
+    scroll-behavior: smooth;
+}
+
+html a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+body{
+    max-width: 1000px;
+    margin: 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(texture_00010.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.top{
+    display: inline-block;
+    text-align: center;
+    background-image: url(firstview.png);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.name-hover{
+    color: #ffffff;
+    letter-spacing: 5px;
+    transition: all 0.5s;
+    background: #0000003f;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    height: 100%;
+    padding: 9% 0 11% 0;
+    font-weight: bold;
+}
+
+.name-hover:hover{
+    color: #ffffff;
+    letter-spacing: 5px;
+    opacity: 1;
+    transition: all 0.5s;
+    background: #0000003f;
+    padding: 10% 0 10% 0;
+}
+
+.container-one{
+    display: inline-block;
+    text-align: center;
+    background-image: url(mu-0001-top.jpeg);
+    background-size: cover;
+    width: 90%;
+    height: 100%;
+    margin-top: 30px;
+}
+
+.more-hover{
+    color: transparent;
+    letter-spacing: 5px;
+    transition: all 0.5s;
+    background: #00000081;
+    text-align: center;
+    display: flex;
+    align-items:flex-end;
+    justify-content: right;
+    opacity: 0;
+    height: 100%;
+    padding: 20% 0 0 0;
+    font-weight: bold;
+}
+
+.more-hover:hover{
+    color: transparent;
+    letter-spacing: 5px;
+    opacity: 1;
+    transition: all 0.5s;
+    background: #00000090;
+    padding: 19% 0 1% 0;
+}
+
+.text-clip{
+    background: #ffffff;
+    padding: 10px 0 10px;
+    border-radius: 5px;
+    margin-right: 1.1%;
+}
+
+.border{
+    border: #ffffff solid 2px;
+    padding: 10px;
+    margin-right: 1.1%;
+    border-radius: 5px;
+    background-image: url(mu-0001-top.jpeg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.container-second{
+    display: inline-block;
+    text-align: center;
+    background-image: url(job-top.jpg);
+    background-size: cover;
+    width: 90%;
+    height: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.more-hover{
+    color: transparent;
+    letter-spacing: 5px;
+    transition: all 0.5s;
+    background: #00000081;
+    text-align: center;
+    display: flex;
+    align-items:flex-end;
+    justify-content: right;
+    opacity: 0;
+    height: 100%;
+    padding: 20% 0 0 0;
+    font-weight: bold;
+}
+
+.more-hover:hover{
+    color: transparent;
+    letter-spacing: 5px;
+    opacity: 1;
+    transition: all 0.5s;
+    background: #00000090;
+    padding: 19% 0 1% 0;
+}
+
+.text-clip{
+    background: #ffffff;
+    padding: 10px 0 10px;
+    border-radius: 5px;
+    margin-right: 1.1%;
+}
+
+.border2{
+    border: #ffffff solid 2px;
+    padding: 10px;
+    margin-right: 1.1%;
+    border-radius: 5px;
+    background-image: url(job-top.jpg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
